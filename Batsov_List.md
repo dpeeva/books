@@ -26,14 +26,14 @@ recommended by **Bozhidar Batsov**, HackConf 2015
 19. Robert C. Martin, **[The Clean Coder](http://goo.gl/Rx5dUA)** 
 20. Martin Flower, **[Refactoring. Improving the Design of Existing Code](http://goo.gl/EUowaC)** 
 21. Steven S. Skiena, **[The Algorithm Design Manual](https://goo.gl/bku7yS)** 
-22. Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, **Introduction to Algorithms** 
-23. Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman, **Compilers** 
-24. Andrew S. Tanenbaum, Herbert Bos, **Modern Operating Systems** 
-25. W. Richard Stevens, Stephen A. Rago, **Advanced Programming in the UNIX Environment**, Second Ed. 
-26. W. Richard Stevens, Bill Fenner, Andrew M. Rudoff, **UNIX Network Programming. The Sockets Networking API** 
-27. Peter Siebel, **Practical Common Lisp** 
-28. Conrad Bariki M.D., **Land of Lisp. Learn to Program in LISP, one game at a time** 
-29. Daniel P. Friedman, Matthias Felleisen, **The Little Schemer** 
+22. Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, **[Introduction to Algorithms](https://goo.gl/dg8dhA)** 
+23. Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman, **[Compilers](http://goo.gl/Y8UTfL)** 
+24. Andrew S. Tanenbaum, Herbert Bos, **[Modern Operating Systems](http://goo.gl/ibrOLo)** 
+25. W. Richard Stevens, Stephen A. Rago, **[Advanced Programming in the UNIX Environment](http://goo.gl/lg9iLD)**, Second Ed., **[3rd ed.](http://goo.gl/N9M2W5)**
+26. W. Richard Stevens, Bill Fenner, Andrew M. Rudoff, **[UNIX Network Programming. The Sockets Networking API](https://goo.gl/qURDg4)** 
+27. Peter Siebel, **[Practical Common Lisp](http://www.gigamonkeys.com/book/)** 
+28. Conrad Bariki M.D., **[Land of Lisp. Learn to Program in LISP, one game at a time](http://goo.gl/CLtgRw)** 
+29. Daniel P. Friedman, Matthias Felleisen, **[The Little Schemer](http://goo.gl/VV3swR)** 
 30. Christian Queinnec, **LISP: Lisp in Small Pieces** 
 31. David A. Black, **The Well-Grounded Rubyist**, Second Ed. 
 32. Sandi Metz, **Practical Object-Oriented Design in Ruby. An Agile Primer** 
