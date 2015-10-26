@@ -35,13 +35,13 @@ recommended by **Bozhidar Batsov**, HackConf 2015
 28. Conrad Bariki M.D., **[Land of Lisp. Learn to Program in LISP, one game at a time](http://goo.gl/CLtgRw)** 
 29. Daniel P. Friedman, Matthias Felleisen, **[The Little Schemer](http://goo.gl/VV3swR)** 
 30. Christian Queinnec, **LISP: Lisp in Small Pieces** 
-31. David A. Black, **The Well-Grounded Rubyist**, Second Ed. 
-32. Sandi Metz, **Practical Object-Oriented Design in Ruby. An Agile Primer** 
+31. David A. Black, **[The Well-Grounded Rubyist](http://goo.gl/FGr9tD)**, Second Ed. 
+32. Sandi Metz, **[Practical Object-Oriented Design in Ruby. An Agile Primer](http://goo.gl/sJm8Sy)** 
 33. Scott Meyers, **Effective C++. 55 Specific Ways to Improve Your Programs and Designs** 
-34. Joshua Bloch, **Effective Java**, Second Ed. 
-35. Brian Goetz, **Java Concurrency in Practice** 
-36. Steve Freeman, Nat Pryce, **Growing Object-Oriented Software, Guided by Tests** 
+34. Joshua Bloch, **[Effective Java](https://goo.gl/HYtfNt)**, Second Ed. 
+35. Brian Goetz, **[Java Concurrency in Practice](http://goo.gl/TvvpaS)** 
+36. Steve Freeman, Nat Pryce, **[Growing Object-Oriented Software, Guided by Tests](http://goo.gl/83TdrO)** 
 37. Johanna Rothman, **Predicting the Unpredictable. Pragmatic Approaches to Estimating Project Schedule or Cost** 
-38. Kent Beck, Cynthia Andres, **Extreme Programming Explained. Embrace Change**, Second Ed. 
-39. Daniel Kahneman, **Thinking, Fast and Slow** 
-40. Douglas R. Hofstadter, **Godel, Escher, Bach, an Eternal Golden Braid** 
+38. Kent Beck, Cynthia Andres, **[Extreme Programming Explained. Embrace Change](https://goo.gl/iKeAfo)**, Second Ed. 
+39. Daniel Kahneman, **]Thinking, Fast and Slow](http://goo.gl/ZLM9K1)** 
+40. Douglas R. Hofstadter, **[Godel, Escher, Bach, an Eternal Golden Braid](http://goo.gl/MbCiP1)** 
