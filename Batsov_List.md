@@ -43,5 +43,5 @@ recommended by **Bozhidar Batsov**, HackConf 2015
 36. Steve Freeman, Nat Pryce, **[Growing Object-Oriented Software, Guided by Tests](http://goo.gl/83TdrO)** 
 37. Johanna Rothman, **Predicting the Unpredictable. Pragmatic Approaches to Estimating Project Schedule or Cost** 
 38. Kent Beck, Cynthia Andres, **[Extreme Programming Explained. Embrace Change](https://goo.gl/iKeAfo)**, Second Ed. 
-39. Daniel Kahneman, **]Thinking, Fast and Slow](http://goo.gl/ZLM9K1)** 
+39. Daniel Kahneman, **[Thinking, Fast and Slow](http://goo.gl/ZLM9K1)** 
 40. Douglas R. Hofstadter, **[Godel, Escher, Bach, an Eternal Golden Braid](http://goo.gl/MbCiP1)** 
